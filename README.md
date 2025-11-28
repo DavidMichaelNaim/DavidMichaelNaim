@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m David Michael Naim 👋
 
-<!--
-**DavidMichaelNaim/DavidMichaelNaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer & motion graphics designer who loves building clean tools, smart automations, and beautiful visuals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Developer
+I create tools, scripts, and small apps that make daily work faster and more organized.
+
+## 🎨 Motion Graphics Designer
+Expert in crafting smooth animations and modern visual styles.
+
+## 🚀 Currently working on
+**TypeBox** — a simple helper tool for organizing system fonts.
+
+---
+
+Let's build something cool together! ✨
+
